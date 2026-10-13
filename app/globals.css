@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+* { box-sizing: border-box; }
+body { margin: 0; background: #090909; color: #f6f1e5; font-family: 'Prompt', system-ui, sans-serif; }
+button, input, select { font: inherit; }
+.gold-text { color: #e7bf67; }
+.gold-button { background: linear-gradient(135deg,#f0d58a,#bd8b32); color: #17120a; font-weight: 700; }
+.panel { border: 1px solid #302817; background: linear-gradient(145deg,#171510,#0e0e0d); border-radius: 18px; }
+.field { width:100%; background:#090909; border:1px solid #403824; color:#fff; border-radius:10px; padding:12px 14px; outline:none; }
+.field:focus { border-color:#d5ad53; }

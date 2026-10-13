@@ -1,0 +1,10 @@
+{
+  "name": "9Zero1Property",
+  "short_name": "9Zero1",
+  "description": "ระบบสมาชิกและสะสมคะแนน 9Zero1Property",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#090909",
+  "icons": []
+}
